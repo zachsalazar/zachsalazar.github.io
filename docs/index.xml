@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Zach Salazar</title>
+    <link>https://zachsalazar.xyz/</link>
+    <description>Recent content in Home on Zach Salazar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://zachsalazar.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://zachsalazar.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zachsalazar.xyz/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zachsalazar.xyz/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zachsalazar.xyz/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zachsalazar.xyz/inprogress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zachsalazar.xyz/inprogress/</guid>
+      <description>The Vatican, Soft Power, and Conflict Mediation Paper examining the effects of Vatican soft power on conflict mediation efforts.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zachsalazar.xyz/published/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zachsalazar.xyz/published/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zachsalazar.xyz/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zachsalazar.xyz/teaching/</guid>
+      <description>Graduate Teaching Assistant PS 100 - Intro to Political Science - Spring 2024
+PS 280 - Intro to International Relations - Fall 2024
+Grader PS 370 - Justice in the Law - Spring 2023
+PS 202 - Religion and Politics in the United States - Fall 2023</description>
+    </item>
+    
+  </channel>
+</rss>
