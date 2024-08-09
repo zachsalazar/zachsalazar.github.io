@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zach Salazar</title>
+    <link>https://zachsalazar.xyz/post/</link>
+    <description>Recent content in Posts on Zach Salazar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zachsalazar.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essential Reading: Christianity</title>
+      <link>https://zachsalazar.xyz/post/2023/02/22/essential-reading-christianity/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zachsalazar.xyz/post/2023/02/22/essential-reading-christianity/</guid>
+      <description>Early Christianity St. Augustine of Hippo (354 - 430) City of God Confessions On the Trinity On Christian Doctrine Medieval Christianity St. Thomas Aquinas (1225 - 1274) Summa Theologica Summa Contra Gentiles </description>
+    </item>
+    
+    <item>
+      <title>Essential Reading: International Relations</title>
+      <link>https://zachsalazar.xyz/post/2023/02/21/essential-reading-international-relations/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zachsalazar.xyz/post/2023/02/21/essential-reading-international-relations/</guid>
+      <description>Robert Jervis </description>
+    </item>
+    
+  </channel>
+</rss>
