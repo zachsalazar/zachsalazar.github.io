@@ -1,5 +1,4 @@
 baseurl: "https://zachsalazar.xyz"
-publishDir: docs
 languageCode: "en-us"
 title: "Zach Salazar"
 theme: "hugo-xmin"
